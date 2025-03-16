@@ -1,0 +1,14 @@
+kafka:
+  brokers:
+    - "<REDACTED>"  
+  topic: "<REDACTED>"                             
+  consumer_group: "<REDACTED>"        
+  tls_cert: "<REDACTED>"                      
+  tls_key: "<REDACTED>"                       
+  tls_ca: "<REDACTED>"                         
+
+opensearch:
+  url: "<REDACTED>"
+  user: "<REDACTED>"
+  password: "<REDACTED>"
+  index: "<REDACTED>"
