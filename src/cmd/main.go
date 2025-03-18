@@ -25,6 +25,6 @@ func main() {
 	config.Kafka.TLSCA = filepath.Join(projectRoot, config.Kafka.TLSCA)
 
 	// Start producing Kafka messages in a goroutine and consume messages to send to opensearch
-	go internal.ProduceKafkaMessages(config)
+	internal.ProduceKafkaMessages(config)
 	internal.ConsumeKafkaMessages(config)
 }
