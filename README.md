@@ -125,9 +125,6 @@ aivendemo/
 │   │   ├── consumer.go        # Kafka consumer
 │   │   ├── models.go          # Data models
 │   │   ├── producer.go        # Kafka producer
-│   ├── scripts/               # Utility scripts
-│   │   ├── opensearch/
-│   │   │   ├── createidx.ps1  # PowerShell script to create OpenSearch index
 ├── config.example.yaml        # Example configuration file
 ├── go.mod                     # Go module file
 ├── go.sum                     # Go dependencies checksum file
