@@ -63,9 +63,6 @@ cd aivendemo
 #### Create Kafka Topic:
 - Create a Kafka topic named `clickstream` in your Aiven Kafka service.
 
-#### Create OpenSearch Index:
-- Use the provided PowerShell script (`scripts/opensearch/createidx.ps1`) to create the `clickstream` index in OpenSearch.
-
 ### 3. Configure the Project
 
 #### Create `config.yaml` from the Example File:
