@@ -163,6 +163,6 @@ These visualizations provide valuable insights into user behavior, helping to an
 
 ### Dashboard Preview  
 
-![OpenSearch Dashboard](./path-to-your-image/Screenshot_18-3-2025_10417_opensearch-demo-doyo25-douglas-892e.l.aivencloud.com.jpeg)  
+![OpenSearch Dashboard](OpensearchDashboardSC.jpeg)  
 
 
