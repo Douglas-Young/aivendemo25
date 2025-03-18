@@ -42,7 +42,7 @@ Before running the project, ensure you have the following:
 - **Aiven Services**:
   - Aiven Kafka (for data ingestion).
   - Aiven OpenSearch (for data storage and visualization).
-- **TLS Certificates**: Download the TLS certificates (ca.pem, service.cert, service.key) from your Aiven Kafka and OpenSearch services.
+- **TLS Certificates**: Download the TLS certificates (ca.pem, service.cert, service.key) from your Aiven Kafka service.
 
 ## Setup Instructions
 
