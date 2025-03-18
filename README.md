@@ -152,6 +152,17 @@ The `ConsumeKafkaMessages` function in `internal/consumer.go` consumes messages 
 - Navigate to **Stack Management > Index Patterns**.
 - Create an index pattern for `clickstream`.
 
-#### Build Visualizations:
-- Use the **Visualize Library** to create charts and graphs for analyzing clickstream data.
+#### Build Visualizations And Dashboard:
+To visualize clickstream data, an OpenSearch Dashboard has been created with the following key insights:  
+
+- **Clicks Per Page**: A bar chart displaying the most visited pages based on user clicks.  
+- **Distribution of Actions**: A donut chart showing the proportion of different user actions (click, view, scroll, purchase).  
+- **User Activity Over Time**: A time-series chart tracking user activity trends over different time intervals.  
+
+These visualizations provide valuable insights into user behavior, helping to analyze engagement patterns and interactions across the website. You can further customize the dashboard by adding filters, changing time ranges, and refining queries to focus on specific events.  
+
+### Dashboard Preview  
+
+![OpenSearch Dashboard](./path-to-your-image/Screenshot_18-3-2025_10417_opensearch-demo-doyo25-douglas-892e.l.aivencloud.com.jpeg)  
+
 
